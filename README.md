@@ -1,4 +1,4 @@
 # limiter
-Rate limiting plugin for Webman.
+Rate limiting component of Webman.
 
 https://www.workerman.net/doc/webman/components/limiter.html
